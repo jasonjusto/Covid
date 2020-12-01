@@ -4,7 +4,7 @@
 
 ## Global
 
-### Focusing on Top Countries with Largest Total Cases 
+### [Focusing on Top Countries with Largest Total Cases](https://github.com/jasonjusto/Covid/blob/master/Globally.R) 
 
 ### New Cases
 ![](/images_global/new_cases.png)
