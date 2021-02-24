@@ -3,9 +3,9 @@
 ## San Diego 
 ### ...
 
-## Global
+## [Global](https://github.com/jasonjusto/Covid/blob/master/Globally.R)
 
-### [Focusing on Top Countries with Largest Total Cases](https://github.com/jasonjusto/Covid/blob/master/Globally.R) 
+### Focusing on Top Countries with Largest Total Cases 
 
 ### New Cases
 ![](/images_global/new_cases.png)
