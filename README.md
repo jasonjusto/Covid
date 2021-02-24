@@ -1,6 +1,6 @@
 # Covid
 
-## San Diego 
+## [San Diego](https://github.com/jasonjusto/Covid/blob/master/San_Diego.R) 
 ### ...
 
 ## [Global](https://github.com/jasonjusto/Covid/blob/master/Globally.R)
